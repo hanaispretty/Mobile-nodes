@@ -1,0 +1,36 @@
+📑 Minima IP Reward
+➡️ Withdraw Minima Coin to Minima Wallet
+
+1. Download IP Reward via Chrome : https://minidapps.minima.global/
+
+2. Update Minima Apps and click ( + ) , select zip File downloaded
+
+3. Login to IP Reward
+
+4. Copy Address in notepad and save
+
+5. Go to Terminal , selecr Scripts. Save all 65 address into file
+
+6. From the address being saved into file, search IP Reward address. If found, 
+that means address is valid.
+
+7. Go to Terminal , type > checkaddress address: your address
+if shown, 
+- Status : True
+- Pending : False
+that means it is valid
+
+8. Still in Terminal type > vault 
+Restart the apps, there will be pending notifications shown, click accept.
+Save phrase
+
+8. Go to vault recheck phrase and compare it with the saved ones.
+
+9. Backup last node and save files with extension .bak 
+
+10. In the further update (probably), there will be wallet apps for Minima address.
+That will need the phrase saved to import into it for IP Reward access. 
+
+
+Discord : https://discord.gg/minima
+Telegram : @minimaindo & @Minima_Global
